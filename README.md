@@ -1,1 +1,1 @@
-# LineComputationProblem
+# LineComparisonProblem
